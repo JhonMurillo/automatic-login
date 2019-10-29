@@ -15,6 +15,7 @@
     "likes_over": 150,
     "check_followers_every": 3600,
     "hashtags": [],
-    "path_chrome": "/Users/jmurillocordoba/Downloads/chromedriver"
+    "path_chrome": "/Users/jmurillocordoba/Downloads/chromedriver",
+    "url_screenshot": "screenshots/screenshot"
   }
 }

@@ -1,8 +1,8 @@
 import Constants
 import AccountAgent
 
-def init(webdriver):
-    Constants.init()
+def init(webdriver, path):
+    Constants.init(path)
     AccountAgent.login(webdriver)
 
 

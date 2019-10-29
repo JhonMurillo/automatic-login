@@ -20,7 +20,8 @@ def login(webdriver):
     sleep(2)
     #click login
     button_login[0].click()
-    sleep(60)
+    webdriver.save_screenshot(Constants.URL_SCREENSHOT+str(datetime.date.today())+".png")
+    sleep(30)
     #In case you get a popup after logging in, press not now.
     #If not, then just return
     try:
