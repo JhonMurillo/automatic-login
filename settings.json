@@ -1,0 +1,20 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "pass": "",
+    "database": "instabot"
+  },
+  "credential": {
+    "user": "1047439537",
+    "pass": "Jm1047439537*",
+    "url_login": "http://aulavirtual.tecnologicocomfenalcovirtual.edu.co/ferrum"
+  },
+  "config": {
+    "days_to_unfollow": 1,
+    "likes_over": 150,
+    "check_followers_every": 3600,
+    "hashtags": [],
+    "path_chrome": "/Users/jmurillocordoba/Downloads/chromedriver"
+  }
+}
